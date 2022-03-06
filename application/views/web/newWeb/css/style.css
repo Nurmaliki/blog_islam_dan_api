@@ -1,0 +1,27 @@
+@media (max-width:480px){
+
+    .logo-cap{
+        text-align: center;
+        text-align: center;
+        margin-bottom: 10%;
+        margin-top: -10%;
+    }
+
+    .logo2{
+        width: 70px!important;
+    }
+
+    .logo2{
+        width: 40px!important;
+    }
+
+    .phone{
+        display: none!important;
+    }
+
+}
+
+
+.items>[class^=item-] {
+    padding: .5em .5em!important;
+}

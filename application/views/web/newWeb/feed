@@ -1,0 +1,700 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="content-language" content="en" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="index,nofollow" />
+<meta name="copyright" content="Copyright © 2015" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="google" content="notranslate" />
+
+<title>Berita | KESAN</title>
+
+<meta name="title" content="Berita | KESAN" />
+<meta name="keywords"       content="KESAN,Kesan APP,Kedaulatan Santri,Aplikasi Kedaulatan Santri dan Kepribadian Muslim,muslim,kepribadian,aplikasi islami,karya anak negeri,gratis,bebas iklan,santri,purna santri,umat,islam,Berita" />
+<meta name="url"            content="https://kesan.id/feed" />
+<meta name="description"    content="KESAN adalah aplikasi Islami karya anak negeri terlengkap, gratis, dan bebas iklan yang didesain khusus untuk menemani para santri, purna santri, dan segenap umat Islam setiap saat." />
+
+<meta name="twitter:card" content="Berita">
+<meta name="twitter:site" content="@kesan_app" />
+<meta name="twitter:creator" content="@kesan_app" />
+<meta name="twitter:url" content="https://kesan.id/feed">
+<meta name="twitter:title" content="Berita">
+<meta name="twitter:description" content="KESAN adalah aplikasi Islami karya anak negeri terlengkap, gratis, dan bebas iklan yang didesain khusus untuk menemani para santri, purna santri, dan segenap umat Islam setiap saat.">
+<meta name="twitter:image" content="https://kesan.id/images/logo.png">
+
+<meta property="og:title" content="Berita" />
+<meta property="og:site_name" content="KESAN"/>
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://kesan.id/feed" />
+<meta property="og:description" content="KESAN adalah aplikasi Islami karya anak negeri terlengkap, gratis, dan bebas iklan yang didesain khusus untuk menemani para santri, purna santri, dan segenap umat Islam setiap saat." />
+<meta name="author"         content="@kesan">
+<meta name="csrf-token"     content="PWYswy568jMFUTE9GpcsmPmxm30AZoiISWqtEqbs" />
+<meta name="image:Logo"     content="https://kesan.id/images/logo.png"/>
+<meta property="og:image"   content="https://kesan.id/images/logo.png"/>
+
+<link rel="icon" href="https://kesan.id/images/icon-kesan.ico">
+
+<link rel="canonical" href="" />    
+
+<link rel="apple-touch-icon" sizes="57x57" href="dist/images/fav/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="dist/images/fav/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="dist/images/fav/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="dist/images/fav/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="dist/images/fav/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="dist/images/fav/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="dist/images/fav/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="dist/images/fav/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="dist/images/fav/apple-icon-180x180.png">
+
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="https://kesan.id/images/logo.png">
+<meta name="theme-color" content="#ffffff">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600|Signika:400,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://kesan.id/css/pages.css" as="style">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/tiny-slider.css">
+    <style type="text/css">
+        .custom-pagination > ul {
+            display: flex;
+            -webkit-box-align: center;
+            align-items: center;
+            -webkit-box-pack: center;
+            justify-content: center;
+        }
+        .custom-pagination .pagination ul li.disabled span {
+            background-color: transparent;
+        }
+    </style>
+
+
+<script async src="https://kesan.id/js/lazysizes.js" ></script>
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-T4WK8K2');</script>
+    <!-- End Google Tag Manager -->
+
+</head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T4WK8K2"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    
+    <header class="global-header" >
+    <div class="container">
+        <div class="header-content flex items-center content-between">
+            <div class="header-content__logo">
+                <figure class="logo">
+                    <a href="https://kesan.id">
+                        <img src="https://kesan.id/images/logo.svg" alt="KESAN Aplikasi untuk Kedaulatan Santri dan Segenap Anak Negeri">
+                    </a>
+                </figure>
+            </div>
+            <nav class="header-content__navigation flex items-center">
+                <a href="https://kesan.id">Utama</a>
+                <a href="https://kesan.id/feed">Berita</a>
+                <a href="https://kesan.id/sahaja">Ramadhan Bersih Bersahaja</a>
+                <a href="https://kesan.id/contact">Kontak</a>
+            </nav>
+            <div class="header-content__cta flex items-center">
+                <div class="download">
+                    <a href="https://play.google.com/store/apps/details?id=com.kesan.android" target="_blank">
+                        <img data-src="https://kesan.id/images/google.svg" alt="" class="lazyload">
+                    </a>
+                    <a href="https://apps.apple.com/us/app/kesan/id1479939730" target="_blank">
+                        <img data-src="https://kesan.id/images/apple.svg" alt="" class="lazyload">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</header>
+
+<button id="toggleMenu" aria-label="open menu navigation">
+    <div>
+        <span></span>
+    </div>
+</button>
+    
+    
+    <header class="header-page">
+        <div class="container container--small">
+            <div class="flex items-center content-between">
+                <h1 class="title">Berita KESAN</h1>
+                <div class="">
+                    <input id="search" type="text" class="field-style" placeholder="Cari berita di sini..." style="min-width:200px">
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section class="section-page section-page--news">
+                <div class="main-populer-post">
+            <div class="container container--small">
+                <div class="items flex warp">
+                    <div class="item-12">
+                        <section class="populer-post">
+                            <header class="header-section">
+                                <h2>Berita Populer</h2>
+                            </header>
+                            <div class="slide-news">
+                                <div id="contentNewsPopular">
+                                                                        <div class="item-news">
+                                        <article class="news news--popular flex m:direction-column">
+                                            <figure class="news__figure">
+                                                <a href="https://kesan.id/feed/tanya-kiai-apa-itu-aswaja-ahlus-sunnah-wal-jamaah-20eb">
+                                                    <img data-src="https://kesan-storage-production-v2.sgp1.digitaloceanspaces.com/content/feed/images/large/TswGZ6hq8xM0Lex5YWbPUqK8uY40V484CpqskGdf1634188773.jpg" alt="" class="lazyload">
+                                                </a>
+                                            </figure>
+                                            <div class="news__info">
+                                                <a href="https://kesan.id/feed/tanya-kiai-apa-itu-aswaja-ahlus-sunnah-wal-jamaah-20eb" class="link">Tanya Kiai: Apa Itu Aswaja (Ahlus Sunnah wal Jamaah)?</a>
+                                                <ul class="meta font-small">
+                                                    <li>Redaksi Kesan</li>
+                                                    <li>14 Oktober 2021</li>
+                                                </ul>
+                                            </div>
+                                        </article>
+                                    </div>
+                                                                        <div class="item-news">
+                                        <article class="news news--popular flex m:direction-column">
+                                            <figure class="news__figure">
+                                                <a href="https://kesan.id/feed/seri-ibadah-7-keutamaan-wudhu-dan-doa-doa-setiap-basuhan-58aa">
+                                                    <img data-src="https://kesan-storage-production-v2.sgp1.digitaloceanspaces.com/content/feed/images/large/3HljgNtty2JpJtInyLM8zZDPEGXDGHFK4zzxDuBp1633503808.jpg" alt="" class="lazyload">
+                                                </a>
+                                            </figure>
+                                            <div class="news__info">
+                                                <a href="https://kesan.id/feed/seri-ibadah-7-keutamaan-wudhu-dan-doa-doa-setiap-basuhan-58aa" class="link">Seri Ibadah: 7 Keutamaan Wudhu dan Doa-doa Setiap Basuhan</a>
+                                                <ul class="meta font-small">
+                                                    <li>Redaksi Kesan</li>
+                                                    <li>06 Oktober 2021</li>
+                                                </ul>
+                                            </div>
+                                        </article>
+                                    </div>
+                                                                        <div class="item-news">
+                                        <article class="news news--popular flex m:direction-column">
+                                            <figure class="news__figure">
+                                                <a href="https://kesan.id/feed/seri-shalawat-bukti-sejarah-shalawat-sejak-zaman-tabiin-vi-f174">
+                                                    <img data-src="https://kesan-storage-production-v2.sgp1.digitaloceanspaces.com/content/feed/images/large/da81vuTxrTTvqebH3WB8RpwmtYWjibQNWRNHCSJs1634272102.jpg" alt="" class="lazyload">
+                                                </a>
+                                            </figure>
+                                            <div class="news__info">
+                                                <a href="https://kesan.id/feed/seri-shalawat-bukti-sejarah-shalawat-sejak-zaman-tabiin-vi-f174" class="link">Seri Shalawat: Bukti Sejarah Shalawat Sejak Zaman Tabiin (VI)</a>
+                                                <ul class="meta font-small">
+                                                    <li>Redaksi Kesan</li>
+                                                    <li>15 Oktober 2021</li>
+                                                </ul>
+                                            </div>
+                                        </article>
+                                    </div>
+                                                                        <div class="item-news">
+                                        <article class="news news--popular flex m:direction-column">
+                                            <figure class="news__figure">
+                                                <a href="https://kesan.id/feed/lomba-video-shalawat-challenge-dan-menulis-cerpen-islami-ber-kesan-231a">
+                                                    <img data-src="https://kesan-storage-production-v2.sgp1.digitaloceanspaces.com/content/feed/images/large/u9PcaXrHZd9SFZqymRiNtSfVANFZl7baNRv0vafv1633072123.jpg" alt="" class="lazyload">
+                                                </a>
+                                            </figure>
+                                            <div class="news__info">
+                                                <a href="https://kesan.id/feed/lomba-video-shalawat-challenge-dan-menulis-cerpen-islami-ber-kesan-231a" class="link">Lomba Video Shalawat Challenge dan Menulis Cerpen Islami Ber-KESAN</a>
+                                                <ul class="meta font-small">
+                                                    <li>Redaksi Kesan</li>
+                                                    <li>01 Oktober 2021</li>
+                                                </ul>
+                                            </div>
+                                        </article>
+                                    </div>
+                                                                        <div class="item-news">
+                                        <article class="news news--popular flex m:direction-column">
+                                            <figure class="news__figure">
+                                                <a href="https://kesan.id/feed/3-rahasia-hidup-berkah-dan-produktif-ala-imam-suyuti-ff26">
+                                                    <img data-src="https://kesan-storage-production-v2.sgp1.digitaloceanspaces.com/content/feed/images/large/HCRuxye97GwERjjOF79dcFjEEForKXsNx1dpadAz1634014360.jpg" alt="" class="lazyload">
+                                                </a>
+                                            </figure>
+                                            <div class="news__info">
+                                                <a href="https://kesan.id/feed/3-rahasia-hidup-berkah-dan-produktif-ala-imam-suyuti-ff26" class="link">3 Rahasia Hidup Berkah dan Produktif ala Imam Suyuti</a>
+                                                <ul class="meta font-small">
+                                                    <li>Redaksi Kesan</li>
+                                                    <li>12 Oktober 2021</li>
+                                                </ul>
+                                            </div>
+                                        </article>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="container container--small">
+            <div class="items flex warp">
+                <div class="item-12">
+
+                    <header class="header-section flex items-center content-between">
+                                                    <h2>Berita lainnya</h2>
+                                                <div class="header-section__cta">
+                            <select name="" id="feed-category" class="field-style" style="min-width:200px">
+                                <option value="">Semua Kategori</option>
+                                <option value="berita">Berita</option>
+                                <option value="artikel">Artikel</option>
+                                <option value="islam">Islam</option>
+                            </select>
+                        </div>
+                    </header>
+
+                                                                        <article class="news flex">
+                                <figure class="news__figure">
+                                    <a href="https://kesan.id/feed/seri-shalawat-bukti-sejarah-shalawat-sejak-zaman-tabiin-vi-f174">
+                                        <img data-src="https://kesan-storage-production-v2.sgp1.digitaloceanspaces.com/content/feed/images/large/da81vuTxrTTvqebH3WB8RpwmtYWjibQNWRNHCSJs1634272102.jpg" alt="" class="lazyload">
+                                    </a>
+                                </figure>
+                                <div class="news__info">
+                                    <a href="https://kesan.id/feed/seri-shalawat-bukti-sejarah-shalawat-sejak-zaman-tabiin-vi-f174" class="link">Seri Shalawat: Bukti Sejarah Shalawat Sejak Zaman Tabiin (VI)</a>
+                                    <ul class="meta font-small">
+                                        <li>Redaksi KESAN</li>
+                                        <li>Artikel</li>
+                                        <li>Jumat, 15 Oktober 2021</li>
+                                    </ul>
+                                    <p class="m:hide">Artikel ini adalah lanjutan dari artikel seri shalawat sebelumnya. Di artikel yang lalu, kita sudah membahas shalawat-shalawat populer yang...</p>
+                                </div>
+                            </article>
+                            
+                                                    <article class="news flex">
+                                <figure class="news__figure">
+                                    <a href="https://kesan.id/feed/tanya-kiai-apa-itu-aswaja-ahlus-sunnah-wal-jamaah-20eb">
+                                        <img data-src="https://kesan-storage-production-v2.sgp1.digitaloceanspaces.com/content/feed/images/large/TswGZ6hq8xM0Lex5YWbPUqK8uY40V484CpqskGdf1634188773.jpg" alt="" class="lazyload">
+                                    </a>
+                                </figure>
+                                <div class="news__info">
+                                    <a href="https://kesan.id/feed/tanya-kiai-apa-itu-aswaja-ahlus-sunnah-wal-jamaah-20eb" class="link">Tanya Kiai: Apa Itu Aswaja (Ahlus Sunnah wal Jamaah)?</a>
+                                    <ul class="meta font-small">
+                                        <li>Redaksi KESAN</li>
+                                        <li>Artikel</li>
+                                        <li>Kamis, 14 Oktober 2021</li>
+                                    </ul>
+                                    <p class="m:hide">Pertanyaan (Munir, bukan nama sebenarnya):
+Saya sering mendengar istilah aswaja atau Ahlus Sunnah wal Jamaah, dan banyak orang sering mengk...</p>
+                                </div>
+                            </article>
+                            
+                                                    <article class="news flex">
+                                <figure class="news__figure">
+                                    <a href="https://kesan.id/feed/habib-umar-bin-hafiz-mencari-ridha-allah-dan-rasulullah-di-bulan-maulid-79a5">
+                                        <img data-src="https://kesan-storage-production-v2.sgp1.digitaloceanspaces.com/content/feed/images/large/D7YrO288LxkeHqsYF7cw3bXhZ8ekY1lKtloqMIGr1634100176.jpg" alt="" class="lazyload">
+                                    </a>
+                                </figure>
+                                <div class="news__info">
+                                    <a href="https://kesan.id/feed/habib-umar-bin-hafiz-mencari-ridha-allah-dan-rasulullah-di-bulan-maulid-79a5" class="link">Habib Umar bin Hafiz: Mencari Ridha Allah dan Rasulullah ﷺ di Bulan Maulid</a>
+                                    <ul class="meta font-small">
+                                        <li>Redaksi KESAN</li>
+                                        <li>Artikel</li>
+                                        <li>Rabu, 13 Oktober 2021</li>
+                                    </ul>
+                                    <p class="m:hide">Rabiul Awal adalah bulan yang istimewa. Di bulan ini, Allah menghadirkan hamba-Nya yang paling sempurna, paling Dia cintai, dan paling mulia...</p>
+                                </div>
+                            </article>
+                            
+                                                    <article class="news flex">
+                                <figure class="news__figure">
+                                    <a href="https://kesan.id/feed/3-rahasia-hidup-berkah-dan-produktif-ala-imam-suyuti-ff26">
+                                        <img data-src="https://kesan-storage-production-v2.sgp1.digitaloceanspaces.com/content/feed/images/large/HCRuxye97GwERjjOF79dcFjEEForKXsNx1dpadAz1634014360.jpg" alt="" class="lazyload">
+                                    </a>
+                                </figure>
+                                <div class="news__info">
+                                    <a href="https://kesan.id/feed/3-rahasia-hidup-berkah-dan-produktif-ala-imam-suyuti-ff26" class="link">3 Rahasia Hidup Berkah dan Produktif ala Imam Suyuti</a>
+                                    <ul class="meta font-small">
+                                        <li>Redaksi KESAN</li>
+                                        <li>Artikel</li>
+                                        <li>Selasa, 12 Oktober 2021</li>
+                                    </ul>
+                                    <p class="m:hide">Imam Suyuti terkenal akan produktivitasnya dalam berkarya. Beliau mengarang ratusan kitab, dan sampai hari ini masih banyak kitabnya yang di...</p>
+                                </div>
+                            </article>
+                            
+                                                    <article class="news flex">
+                                <figure class="news__figure">
+                                    <a href="https://kesan.id/feed/tanya-nyai-amalan-ibadah-saat-haid-1f65">
+                                        <img data-src="https://kesan-storage-production-v2.sgp1.digitaloceanspaces.com/content/feed/images/large/y07mYM6EZrWIHJZWpdAUokyYpn6zNtc1XJdedHDE1633932859.jpg" alt="" class="lazyload">
+                                    </a>
+                                </figure>
+                                <div class="news__info">
+                                    <a href="https://kesan.id/feed/tanya-nyai-amalan-ibadah-saat-haid-1f65" class="link">Tanya Nyai: Amalan Ibadah Saat Haid?</a>
+                                    <ul class="meta font-small">
+                                        <li>Redaksi KESAN</li>
+                                        <li>Artikel</li>
+                                        <li>Senin, 11 Oktober 2021</li>
+                                    </ul>
+                                    <p class="m:hide">Pertanyaan (Sarah, bukan nama sebenarnya):
+Sebagai perempuan, kita mengalami masa libur shalat dan puasa. Apa ibadah lain yang dapat saya r...</p>
+                                </div>
+                            </article>
+                            
+                                                    <article class="news flex">
+                                <figure class="news__figure">
+                                    <a href="https://kesan.id/feed/humor-sufi-kuda-terlatih-e469">
+                                        <img data-src="https://kesan-storage-production-v2.sgp1.digitaloceanspaces.com/content/feed/images/large/wKyE1lrEfTeg9LdfWNBrCzjmIbYPQpgwR1mKgVvO1633844576.jpg" alt="" class="lazyload">
+                                    </a>
+                                </figure>
+                                <div class="news__info">
+                                    <a href="https://kesan.id/feed/humor-sufi-kuda-terlatih-e469" class="link">Humor Sufi: Kuda Terlatih</a>
+                                    <ul class="meta font-small">
+                                        <li>Redaksi KESAN</li>
+                                        <li>Artikel</li>
+                                        <li>Minggu, 10 Oktober 2021</li>
+                                    </ul>
+                                    <p class="m:hide">Seorang imam menjual kuda di pasar, lalu datanglah seorang calon pembeli yang tertarik dengan kuda itu. Sebelum memutuskan untuk membeli, le...</p>
+                                </div>
+                            </article>
+                            
+                                                    <article class="news flex">
+                                <figure class="news__figure">
+                                    <a href="https://kesan.id/feed/tanya-dalil-memakai-bra-haram-69a2">
+                                        <img data-src="https://kesan-storage-production-v2.sgp1.digitaloceanspaces.com/content/feed/images/large/yHBInxFXRcObqgUrj9TDDetzbIrG7k9qKRSMUeIh1633761430.jpg" alt="" class="lazyload">
+                                    </a>
+                                </figure>
+                                <div class="news__info">
+                                    <a href="https://kesan.id/feed/tanya-dalil-memakai-bra-haram-69a2" class="link">Tanya Dalil: Memakai Bra Haram?</a>
+                                    <ul class="meta font-small">
+                                        <li>Redaksi KESAN</li>
+                                        <li>Artikel</li>
+                                        <li>Sabtu, 09 Oktober 2021</li>
+                                    </ul>
+                                    <p class="m:hide">Pertanyaan (Putri, bukan nama sebenarnya):
+Saya mendengar di media sosial ada fatwa yang mengharamkan perempuan menggunakan bra. Adakah dal...</p>
+                                </div>
+                            </article>
+                            
+                                                    <article class="news flex">
+                                <figure class="news__figure">
+                                    <a href="https://kesan.id/feed/seri-shalawat-shalawat-populer-para-ulama-dan-habaib-v-892c">
+                                        <img data-src="https://kesan-storage-production-v2.sgp1.digitaloceanspaces.com/content/feed/images/large/OrpqxkQigl5Cp0D0NnsMnscYDWnI4KE7w7nI9jtf1633683690.jpg" alt="" class="lazyload">
+                                    </a>
+                                </figure>
+                                <div class="news__info">
+                                    <a href="https://kesan.id/feed/seri-shalawat-shalawat-populer-para-ulama-dan-habaib-v-892c" class="link">Seri Shalawat: Shalawat Populer Para Ulama dan Habaib (V)</a>
+                                    <ul class="meta font-small">
+                                        <li>Redaksi KESAN</li>
+                                        <li>Artikel</li>
+                                        <li>Jumat, 08 Oktober 2021</li>
+                                    </ul>
+                                    <p class="m:hide">Artikel ini adalah lanjutan dari artikel seri shalawat sebelumnya. Di artikel yang lalu, kita sudah membahas shalawat yang dilantunkan oleh...</p>
+                                </div>
+                            </article>
+                            
+                                                    <article class="news flex">
+                                <figure class="news__figure">
+                                    <a href="https://kesan.id/feed/tanya-kiai-hukum-menemukan-uang-di-jalan-2807">
+                                        <img data-src="https://kesan-storage-production-v2.sgp1.digitaloceanspaces.com/content/feed/images/large/VhOt3Q2cY11dQrHfxVyS3sPQSx0jSl3bIU780EWm1633585209.jpg" alt="" class="lazyload">
+                                    </a>
+                                </figure>
+                                <div class="news__info">
+                                    <a href="https://kesan.id/feed/tanya-kiai-hukum-menemukan-uang-di-jalan-2807" class="link">Tanya Kiai: Hukum Menemukan Uang di Jalan?</a>
+                                    <ul class="meta font-small">
+                                        <li>Redaksi KESAN</li>
+                                        <li>Artikel</li>
+                                        <li>Kamis, 07 Oktober 2021</li>
+                                    </ul>
+                                    <p class="m:hide">Pertanyaan (Siti, bukan nama sebenarnya):
+Saya menemukan uang di jalan, apakah boleh diambil untuk kepentingan pribadi?
+Jawaban (Kiai Abdu...</p>
+                                </div>
+                            </article>
+                            
+                                                    <article class="news flex">
+                                <figure class="news__figure">
+                                    <a href="https://kesan.id/feed/seri-ibadah-7-keutamaan-wudhu-dan-doa-doa-setiap-basuhan-58aa">
+                                        <img data-src="https://kesan-storage-production-v2.sgp1.digitaloceanspaces.com/content/feed/images/large/3HljgNtty2JpJtInyLM8zZDPEGXDGHFK4zzxDuBp1633503808.jpg" alt="" class="lazyload">
+                                    </a>
+                                </figure>
+                                <div class="news__info">
+                                    <a href="https://kesan.id/feed/seri-ibadah-7-keutamaan-wudhu-dan-doa-doa-setiap-basuhan-58aa" class="link">Seri Ibadah: 7 Keutamaan Wudhu dan Doa-doa Setiap Basuhan</a>
+                                    <ul class="meta font-small">
+                                        <li>Redaksi KESAN</li>
+                                        <li>Artikel</li>
+                                        <li>Rabu, 06 Oktober 2021</li>
+                                    </ul>
+                                    <p class="m:hide">Allah mencintai hamba-hambanya yang senantiasa mensucikan diri. Di antara cara bersuci yang Allah sebutkan langsung dalam Al-Qur’an adalah w...</p>
+                                </div>
+                            </article>
+                            
+                                            
+                    <!-- <nav class="pagination m-t-4">
+                        <ul class="flex items-center content-center">
+                            <li>
+                                <span>1</span>
+                            </li>
+
+                            <li>
+                                <a href="">2</a>
+                            </li>
+
+                            <li>
+                                <a href="">3</a>
+                            </li>
+
+                            <li>
+                                <a href="">4</a>
+                            </li>
+
+                            <li>
+                                <a href="">5</a>
+                            </li>
+                        </ul>
+                    </nav> -->
+
+                    <nav class="pagination m-t-4 custom-pagination">
+                        <ul class="pagination" role="navigation">
+        
+                    <li class="page-item disabled" aria-disabled="true" aria-label="&laquo; Previous">
+                <span class="page-link" aria-hidden="true">&lsaquo;</span>
+            </li>
+        
+        
+                    
+            
+            
+                                                                        <li class="page-item active" aria-current="page"><span class="page-link">1</span></li>
+                                                                                <li class="page-item"><a class="page-link" href="https://kesan.id/feed?page=2">2</a></li>
+                                                                                <li class="page-item"><a class="page-link" href="https://kesan.id/feed?page=3">3</a></li>
+                                                                                <li class="page-item"><a class="page-link" href="https://kesan.id/feed?page=4">4</a></li>
+                                                                    
+                            <li class="page-item disabled" aria-disabled="true"><span class="page-link">...</span></li>
+            
+            
+                                
+            
+            
+                                                                        <li class="page-item"><a class="page-link" href="https://kesan.id/feed?page=92">92</a></li>
+                                                                                <li class="page-item"><a class="page-link" href="https://kesan.id/feed?page=93">93</a></li>
+                                                        
+        
+                    <li class="page-item">
+                <a class="page-link" href="https://kesan.id/feed?page=2" rel="next" aria-label="Next &raquo;">&rsaquo;</a>
+            </li>
+            </ul>
+
+                    </nav>
+
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="main-footer">
+    <div class="container container-heading">
+        <div class="items flex wrap">
+            <div class="item-3 m:item-12">
+                <figure class="logo-footer m-b-2">
+                    <object data="https://kesan.id/images/logo.svg" type="image/svg+xml" alt="Aplikasi untuk Kedaulatan Santri dan Segenap Anak Negeri"></object>
+                </figure>
+            </div>
+            <div class="item-1 m:item-6">
+                <h3>KESAN</h3>
+                <ul>
+                    <li>
+                        <a href="https://kesan.id">Utama</a>
+                    </li>
+                    
+                    <li>
+                        <a href="https://kesan.id/feed">Berita</a>
+                    </li>
+                    
+                    <li>
+                        <a href="https://kesan.id/contact">Kontak</a>
+                    </li>
+
+                    
+                </ul>
+            </div>
+            
+            <div class="item-2 m:item-6">
+                <h3>UMUM</h3>
+                <ul>
+                    <li>
+                        <a href="https://kesan.id/faq">F A Q</a>
+                    </li>
+                    
+                    <li>
+                        <a href="https://kesan.id/terms-conditions">Syarat &amp; Ketentuan </a>
+                    </li>
+                    
+                    <li>
+                        <a href="https://kesan.id/privacy-policy">Kebijakan Privasi </a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="item-3 m:item-12 follow">
+                <h3>IKUTI KAMI</h3>
+                <ul>
+                    <li>
+                        <a href="https://www.facebook.com/Kedaulatan-Santri-KESAN-2340941629517720/" class="social-media flex items-center" target="_blank">
+                            <object data="https://kesan.id/images/socmed/facebook.svg" type="image/svg+xml" alt="Ikuti kami di facebook"></object>
+                            <span>KESAN Kedaulatan Santri</span>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="https://www.instagram.com/kesan_app" class="social-media flex items-center" target="_blank">
+                            <object data="https://kesan.id/images/socmed/instagram.svg" type="image/svg+xml" alt="Ikuti kami di instagram"></object>
+                            <span>@kesan_app</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://twitter.com/kesan_app" class="social-media flex items-center" target="_blank">
+                            <object data="https://kesan.id/images/socmed/twitter.svg" type="image/svg+xml" alt="Ikuti kami di twitter"></object>
+                            <span>@kesan_app</span>
+                        </a>
+                    </li>
+                    
+
+                </ul>
+            </div>
+
+            <div class="item-3 m:item-12">
+                <div class="flex warp content-between direction-column m:items-center">
+                    <h3>UNDUH KESAN</h3>
+                    <div class="box-download flex items-center">
+                        <a href="https://play.google.com/store/apps/details?id=com.kesan.android" target="_blank" class="m-r-2">
+                            <img src="https://kesan.id/images/google.svg" alt="">
+                        </a>
+                        <a href="https://apps.apple.com/us/app/kesan/id1479939730" target="_blank">
+                            <img src="https://kesan.id/images/apple.svg" alt="">
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="container foot-note">
+        <div class="flex warp content-center">
+            Copyright ©2019 KESAN made with mawaddah
+        </div>
+    </div>
+</footer>
+    
+    <section class="banner-app is-show">
+        <div class="box-banner-app flex">
+            <a href="" class="flex items-center content-between">
+                <div class="icon-app">
+                    
+                </div>
+                <strong>Buka aplikasi KESAN</strong>
+            </a>
+            <button id="buttonCloseBanner" aria-label="tutup informasi download kesan">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M19 5L5 19" stroke="#697784" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    <path d="M5 5L19 19" stroke="#697784" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+            </button>
+        </div>
+    </section>
+    
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136833084-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-136833084-1');
+    </script>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"></script>
+    <script type="text/javascript">
+        const nav = document.querySelector('.global-header');
+        nav.classList.add('is-fixed');
+
+                tns({
+            "container": "#contentNewsPopular",
+            "items": 1,
+            "speed": 500,
+            "autoplay": true,
+            "disable" : true,
+            "autoplayText": false,
+            controlsText:[
+                '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-left"><polyline points="15 18 9 12 15 6"></polyline></svg>',
+                '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right"><polyline points="9 18 15 12 9 6"></polyline></svg>'
+            ],
+            "responsive" : {
+                "480" : {
+                    "disable" : false,
+                }
+            }
+        })
+        
+        // const page = document.getElementsByClassName('disabled');
+        // page[0].innerHTML = '<a style="cursor: default;">...</a>';
+        // page[1].innerHTML = '<a style="cursor: default;">...</a>';
+
+        // filter category
+        document.getElementById("feed-category").addEventListener("change", changeCategory);
+
+        function changeCategory() {
+                            var search = '';
+            
+            var feed_category = document.getElementById("feed-category")
+            window.location.href = "https://kesan.id/feed?"+search+"category="+feed_category.options[feed_category.selectedIndex].value;
+        }
+
+        
+        // search title by keyword
+        var search = document.getElementById('search');
+        search.onkeyup = function (e) {
+                            var category = '';
+            
+            if (e.keyCode == 13) { // if enter
+                window.location.href = "https://kesan.id/feed?search="+this.value+category;
+            }
+        }
+
+        
+        // custom pagination link with search and filter
+        const page = document.getElementsByClassName('page-item');
+
+                    var search = '';
+        
+                    var category = '';
+        
+        for (var i = 0; i < page.length; i++) {
+            if (page[i].firstChild.href) {
+                var url = page[i].firstChild.href+search+category;
+                page[i].firstChild.setAttribute('href', url);
+            }
+        }
+
+    </script>
+    
+    <script type="text/javascript">
+    
+        var btnMenu = document.querySelector('#toggleMenu')
+        var containerMenu = document.querySelector('.header-content__navigation')
+        var body = document.querySelector('body')
+
+        btnMenu.onclick = function() {
+            containerMenu.classList.toggle('is-show')
+            btnMenu.classList.toggle('is-active')
+            body.classList.toggle('no-scroll')
+        }
+        
+        
+
+        var btnCloseBanner = document.getElementById('buttonCloseBanner')
+
+        btnCloseBanner.onclick = function() {
+            document.querySelector('.banner-app').classList.remove('is-show')
+        }
+
+
+    </script>
+</body>
+</html>
